@@ -11,7 +11,7 @@ ENTITIES_ROOT = os.path.join(BASE_DIR, 'entities')
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-cp)&+gjf6wkx&da9@&n4c69+t__q-ye+26@w4v15#31qe7dhnr'
+SECRET_KEY = ''
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = 'PRODUCTION' not in os.environ
